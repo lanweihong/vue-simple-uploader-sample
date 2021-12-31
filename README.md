@@ -1,24 +1,13 @@
-# vue-simple-uploader-sample
+# vue-simple-uploader 实现文件分片上传、断点续传及秒传
 
-## Project setup
-```
+## 项目构建
+```shell
+# 安装依赖
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 运行
+npm run dev
 
-### Compiles and minifies for production
-```
+# 打包
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
